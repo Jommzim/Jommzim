@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm jom</h1>
-<h3 align="center">>Software Engineer & UX Specialist ✨</h3>
+<h3 align="center">> Software Engineer & UX Specialist ✨</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jommzim" alt="jommzim" /></a> </p>
+- 🔭 Estou atualmente trabalhando em **MOND, RDSV**
 
 - 🌱 Estou Explorando **WebAssembly (WASM), Acessibilidade (a11y)**
+
+- 🍄 Voce pode entrar em contato por **jombymond@gmail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
